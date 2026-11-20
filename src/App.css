@@ -1,0 +1,22 @@
+
+html, body, #root {
+    margin: 0px;
+    padding: 0;
+    height: 100%;
+}
+
+
+
+
+.meu-link {
+  color: #8F8F8F;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+
+.meu-link.ativo {
+  color: #C92071;
+  font-weight: bold;
+  text-decoration: underline;
+}
